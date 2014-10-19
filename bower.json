@@ -1,7 +1,7 @@
 {
   "name": "tide-angular-wordcloud",
-  "main": "tide-angular-wordcloud.js",
-  "version": "0.0.2",
+  "main": ["d3.layout.cloud.js","tide-angular-wordcloud.js"],
+  "version": "0.0.4",
   "authors": [
     "Ernesto Laval <ernesto.laval@gmail.com>"
   ],
